@@ -1,5 +1,4 @@
 
-<!DOCTYPE html>
 <html>
   <head>
     <title>My Favorite Book</title>
